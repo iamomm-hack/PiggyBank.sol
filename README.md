@@ -57,6 +57,8 @@ This piggy bank serves as a foundational project to help understand these concep
 
 ## 📸 Deployment Proof
 
+Contract Address:-0xa7eaf7693299268a3d3535f150e358484993317163e911d6b241802c23a66063
+
 Here’s a screenshot of a successful contract deployment on the **CORE Testnet**:
 
 ![Deployment on CORE Testnet](images/deployment-screenshot.png)
