@@ -61,8 +61,10 @@ Here’s a screenshot of a successful contract deployment on the **CORE Testnet*
 
 ![Deployment on CORE Testnet](images/deployment-screenshot.png)
 
-> 📝 *Replace `imag![image](https://github.com/user-attachments/assets/806e1493-1e20-4ecd-948a-5e3090c360e4)
-es/deployment-screenshot.png` with the correct path if you rename or move the image in your repo.*
+
+
+![image](https://github.com/user-attachments/assets/aa968f8a-fce5-4d01-9da3-4005c94affa5)
+
 
 ---
 
